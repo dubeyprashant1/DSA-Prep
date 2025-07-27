@@ -1,3 +1,4 @@
+
 ## Rules To Contribute To This Repo
 
 - You can write solutions in C/C++/Java for Data Structure and Algorithms.
@@ -84,5 +85,4 @@ if (isAwesome) {
 
 ```
 
----
 
